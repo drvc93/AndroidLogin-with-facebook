@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationBarApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="facebook_app_id">1038174202984550</string>
+</resources>
